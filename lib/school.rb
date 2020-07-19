@@ -18,7 +18,7 @@ class School
   def sort
     hash = {}
     @roster.keys.sort.each do |num|
-      hash[num] = @roster[number].sort
+      hash[num] = @roster[num].sort
   end
     hash
  end
