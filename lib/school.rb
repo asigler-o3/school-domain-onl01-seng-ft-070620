@@ -3,8 +3,8 @@ class School
 
   new = []
 
-  def initialize(new_students)
-    @new_students = new_students
+  def initialize(school)
+    @school = school
     binding.pry
   end
 end
