@@ -1,8 +1,8 @@
 class School
 
-  roster = []
+  new = []
 
-  def initialize(roster)
-    @roster = roster
+  def initialize(new_students)
+    @new_students = new_students
   end
 end
