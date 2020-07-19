@@ -7,7 +7,4 @@ class School
   def initialize(school)
     @school = school
   end
-
-    binding.pry
-  end
 end
