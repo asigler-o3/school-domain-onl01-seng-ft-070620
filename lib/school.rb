@@ -5,6 +5,10 @@ class School
 
   def initialize(school)
     @school = school
+  end
+
+  def add_student(roster)
+    @roster = roster
     binding.pry
   end
 end
