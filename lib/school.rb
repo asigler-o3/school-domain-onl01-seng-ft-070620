@@ -4,7 +4,7 @@ class School
 
   new = []
 
-  def initialize(school)
-    @school = school
+  def initialize(roster)
+    @roster = roster
   end
 end
